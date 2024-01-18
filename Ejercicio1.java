@@ -12,6 +12,7 @@ public class Ejercicio1 {
         int dia, mes, anio, total;
         int n1, n2, n3, n4, num_secreto;
         Scanner sc = new Scanner(System.in);
+        System.out.println("Ejercicio de práctica");
         System.out.println("Digite día: ");
         dia = sc.nextInt();
         System.out.println("Digite mes: ");
